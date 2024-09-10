@@ -1,3 +1,5 @@
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vvXfCGgURfA?si=nd4CaToV1h-eD3R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Inspiration
 I wanted to try making something like the shoulder cannon from a predator but I didn’t know how I would attach it to my shoulder so I receded to a simpler project: a rubber band turret. After researching how I can shoot rubber bands I found [this](https://hackaday.com/2019/02/13/palm-sized-gatling-gun-has-32-mini-elastics-with-your-name-on-them/) design which allows me to turn rotational movement into continuous shooting of rubber bands.
 
